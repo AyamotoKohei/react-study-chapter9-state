@@ -6,7 +6,7 @@
 #   Riakuto! Project by Klemiwary Books
 
 targetProjects=(
-    "state/"
+    "counter-hooks/"
 )
 
 # execute each test
